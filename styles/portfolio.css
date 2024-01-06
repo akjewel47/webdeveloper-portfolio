@@ -154,5 +154,15 @@ color: #757575;
 .Download-cv{
  text-align: center;
  margin-top: 50px;
- 
+
+}
+/* footer styles */
+
+.section-desciptio{
+ text-align: center;
+ margin: 10px;
+}
+.footer{
+ display: flex;
+
 }
